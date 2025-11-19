@@ -1,4 +1,69 @@
 ---
-title: "Map"
+title: "Interactive Map"
+format: html
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
+# Interactive Map Demo
+
+The map below demonstrates how an externally hosted, interactive web map
+can be embedded directly into a Quarto website using a simple HTML
+iframe. This example shows a neighborhood-scale dataset displayed
+through a Leaflet map exported from QGIS using the qgis2web plugin.
+
+```{=html}
+<iframe
+  src="https://geospatialresearchlab.github.io/demo_qgis2web_map/#11/38.8939/-77.0145"
+  width="100%"
+  height="600"
+  style="border:none;"
+  loading="lazy">
+</iframe>
+```
+
+# About This Demonstration
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
+potenti. Duis pretium eros ut sapien tempus, a vulputate arcu placerat.
+Maecenas tempor ornare tortor, vitae bibendum nisi feugiat a. Praesent
+condimentum magna at sem facilisis, ac interdum sem viverra.
+Pellentesque quis cursus nibh. Nulla facilisi.
+
+Integer laoreet, magna a dapibus cursus, elit nulla mattis dui, vitae
+mattis ante magna sed velit. Vestibulum tempus, tortor vitae vestibulum
+feugiat, metus felis semper augue, sed tempus arcu ligula ut orci. Sed
+feugiat nisl vel justo condimentum, non commodo risus rhoncus. Proin
+fermentum lorem id arcu molestie, nec lacinia libero posuere. Mauris sed
+porttitor arcu. Sed tristique interdum risus non consequat.
+
+# Workflow Overview (Placeholder Text)
+
+This page is part of a demonstration showing how to build a simple
+project site using Quarto and embed an interactive map hosted elsewhere.
+The general structure is as follows:
+
+1.  Create the map in a GIS environment Lorem ipsum dolor sit amet,
+    consectetur adipiscing elit. Sed sed dignissim elit.
+2.  Export the map as a web-ready visualization Nullam posuere magna in
+    nibh tincidunt, non facilisis eros dignissim. Ut laoreet consequat
+    vehicula.
+3.  Host the map independently Cras cursus turpis non leo porttitor, ut
+    dictum neque tempor. Pellentesque euismod magna non augue bibendum
+    luctus.
+4.  Embed the map into a Quarto site Curabitur et dignissim arcu. Sed
+    tincidunt, magna at vulputate consequat, nunc velit feugiat felis,
+    vitae vulputate nisi libero id urna.
+
+This workflow enables flexible publishing workflows where maps,
+narrative content, and supporting materials can be managed and hosted
+independently.
+
+# Additional Notes
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
+pretium, mi eu dictum dictum, tortor velit placerat ipsum, quis bibendum
+est urna ut justo. Aliquam ac lobortis purus. Donec vel gravida est.
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
+cubilia curae.
