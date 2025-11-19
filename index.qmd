@@ -1,0 +1,69 @@
+---
+title: "demo_quarto_map_site"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# About This Project
+
+This project demonstrates a simple workflow for publishing interactive
+web maps using free and open-source tools. The example map highlights a
+subset of urban trees within a metropolitan area and illustrates how
+spatial data can be shared online without requiring specialized accounts
+or licensed platforms.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae neque
+eu augue eleifend placerat. Vestibulum ante ipsum primis in faucibus
+orci luctus et ultrices posuere cubilia curae; Etiam tincidunt metus sed
+magna pretium, vitae finibus ipsum varius. Pellentesque ac lorem non
+sapien rutrum gravida. Integer feugiat commodo mauris, vitae auctor arcu
+tempus in.
+
+## Project Overview
+
+Curabitur rhoncus felis sit amet eros porta, nec varius nulla mattis.
+Maecenas eu velit id justo sodales faucibus in et magna. Cras
+scelerisque tincidunt dolor, id luctus risus ultricies ut. Sed ut justo
+malesuada, venenatis neque in, efficitur libero. Integer id massa urna.
+Vivamus quis egestas arcu. Suspendisse potenti.
+
+Proin vulputate lacus at est condimentum, et tincidunt ipsum mattis.
+Aenean posuere pulvinar arcu, vitae ultricies erat malesuada id.
+Phasellus eget orci dictum, malesuada neque nec, dignissim sapien. Duis
+et sem ac ante rutrum consequat quis a urna. Quisque vitae mauris ac
+elit dapibus tristique vitae sit amet lacus.
+
+## Methods & Workflow
+
+This example uses a three-step process: 1. Create the map in a desktop
+GIS tool Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
+dignissim est sit amet metus tristique, in laoreet dui interdum. 2.
+Export the map as a web-ready visualization Aliquam erat volutpat.
+Praesent pharetra elit at nisl eleifend aliquet. Suspendisse hendrerit
+sodales metus, sit amet dapibus sapien ultricies id. 3. Publish the
+result on a free hosting platform Vestibulum ac risus amet ligula
+viverra rhoncus non et ex. Donec ut augue in diam sodales egestas.
+
+This workflow allows students and community members to publish maps
+quickly, share them publicly, and embed them into a variety of online
+platforms.
+
+## Why Use This Approach?
+
+Suspendisse bibendum sapien et mauris interdum, nec pulvinar ex commodo.
+Integer volutpat libero in eros aliquam, quis posuere justo imperdiet.
+Donec faucibus tortor quis diam hendrerit, id tempus neque ullamcorper.
+Nulla facilisi.
+
+Etiam finibus ultricies mauris, vitae vehicula lorem molestie id.
+Maecenas condimentum leo eget nunc volutpat, in porta massa
+sollicitudin. Integer aliquam libero sit amet turpis lacinia, a aliquam
+velit tristique.
+
+## Acknowledgments
+
+Curabitur ullamcorper tellus id tellus ultricies, dignissim dictum justo
+placerat. Vestibulum aliquam ipsum id eros porta, eget imperdiet mauris
+efficitur. Integer sed elit sed enim facilisis pellentesque. Suspendisse
+feugiat libero in pulvinar facilisis.
