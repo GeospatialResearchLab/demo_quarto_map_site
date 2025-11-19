@@ -53,7 +53,7 @@ It also provides a pathway for future instruction: students can build a Quarto s
 ## Live Demo
 
 - **Quarto site:**  
-  *(Insert your GitHub Pages site URL once deployed)*
+  [https://geospatialresearchlab.github.io/demo_quarto_map_site](https://geospatialresearchlab.github.io/demo_quarto_map_site/)
 
 - **Interactive map (qgis2web export):**  
-  *(Insert link to the separate map repo’s GitHub Pages URL)*
+  [https://geospatialresearchlab.github.io/demo_qgis2web_map](https://geospatialresearchlab.github.io/demo_qgis2web_map)
